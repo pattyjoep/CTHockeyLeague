@@ -22,7 +22,7 @@ function App() {
           </Col>
         </Row>
       </Container>
-      
+      {/* <img class="img-responsive img-rounded" src="http://cthockeyleague.com/CHL_2014/media/uploads/flyers/chlhockeynetworkFlyer.jpg" border="0" width="1141"></img> */}
       <Footer></Footer>
     </div>
 

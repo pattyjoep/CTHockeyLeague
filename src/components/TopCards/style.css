@@ -1,15 +1,23 @@
-.tier-btn {
+.btn {
     margin: 2px;
     background-color: #0e3473 !important;
     border: none !important;
+    width: 100%;
 }
 
-.tier-btn:hover {
+.btn:hover {
     background-color: red !important;
 }
-
 
 .card {
     width: 250px;
     color: black;
+}
+
+.news-btn {
+    width: 100%;
+}
+
+.top-cards {
+    margin-top: 10px;
 }

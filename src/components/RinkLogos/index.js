@@ -13,13 +13,13 @@ function RinkLogos() {
               </a>
             </Col>
             <Col xsm>
-              <a href="http://cthockeyleague.com/CHL_2014/ads/redirect/191" target="_blank">
-                <img src="http://cthockeyleague.com/CHL_2014/media/uploads/ads/imgres-4.jpg" alt="Newington Ice Arena" class="img-thumbnail"></img>
+              <a href="http://cthockeyleague.com/CHL_2014/ads/redirect/194" target="_blank">
+                <img src="http://cthockeyleague.com/CHL_2014/media/uploads/ads/imgres-3.jpg" alt="Northford Ice Pavillion" class="img-thumbnail"></img>
               </a>
             </Col>
             <Col xsm>
-              <a href="http://cthockeyleague.com/CHL_2014/ads/redirect/194" target="_blank">
-                <img src="http://cthockeyleague.com/CHL_2014/media/uploads/ads/imgres-3.jpg" alt="Northford Ice Pavillion" class="img-thumbnail"></img>
+              <a href="http://cthockeyleague.com/CHL_2014/ads/redirect/191" target="_blank">
+                <img src="http://cthockeyleague.com/CHL_2014/media/uploads/ads/imgres-4.jpg" alt="Newington Ice Arena" class="img-thumbnail"></img>
               </a>
             </Col>
             <Col xsm>
