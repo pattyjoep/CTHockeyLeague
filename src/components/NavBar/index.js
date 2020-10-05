@@ -23,8 +23,24 @@ function NavBar() {
                     <li className="nav-item">
                         <a className="nav-link" href="#"><i className="fa fa-dollar"></i> Make Payment</a>
                     </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <i class="fa fa-list"></i> Tier Information
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Tier 1 - All Star</a>
+                            <a class="dropdown-item" href="#">Tier 2</a>
+                            <a class="dropdown-item" href="#">Tier 3</a>
+                            <a class="dropdown-item" href="#">Tier 4 - North</a>
+                            <a class="dropdown-item" href="#">Tier 4 - South</a>
+                            <a class="dropdown-item" href="#">Tier 5</a>
+                            <a class="dropdown-item" href="#">Tier 6 - North</a>
+                            <a class="dropdown-item" href="#">Tier 6 - South</a>
+                            <a class="dropdown-item" href="#">Tier 7</a>
+                        </div>
+                    </li>
                 </ul>
-                
+ 
             </div>
             <SocialMediaIcons></SocialMediaIcons>
         </nav>

@@ -4,7 +4,9 @@ import './App.css';
 
 import NavBar from './components/NavBar'
 import RinkLogos from './components/RinkLogos'
-import TopCards from './components/TopCards'
+import NewsCard from './components/NewsCard'
+import AnnouncementCard from './components/AnnouncementCard'
+import Carousel from './components/Carousel'
 
 import Footer from './components/Footer'
 
@@ -17,8 +19,14 @@ function App() {
       <RinkLogos></RinkLogos>
       <Container>
         <Row>
-          <Col sm="12">
-            <TopCards></TopCards> 
+          <Col sm="4">
+            <NewsCard></NewsCard> 
+          </Col>
+          <Col sm="4">
+            <Carousel></Carousel>
+          </Col>
+          <Col sm="4">
+            <AnnouncementCard></AnnouncementCard>
           </Col>
         </Row>
       </Container>

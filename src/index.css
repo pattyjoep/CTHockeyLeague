@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  /* background-color: blue; */
+  /* background-image: url('uploads/defaults/defaultBackground.jpg') center 0 repeat #010015; */
+}

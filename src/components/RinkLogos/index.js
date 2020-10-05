@@ -5,7 +5,7 @@ import { Container, Row, Col } from 'react-bootstrap'
 
 function RinkLogos() {
     return (
-        <Container className="rink-logos-container">
+        <Container fluid className="rink-logos-container">
           <Row noGutters>
             <Col xsm>
               <a href="http://cthockeyleague.com/CHL_2014/ads/redirect/187" target="_blank">

@@ -1,0 +1,30 @@
+.btn {
+    margin: 2px;
+    background-color: #0e3473 !important;
+    border: none !important;
+    width: 100%;
+}
+
+.btn:hover {
+    background-color: red !important;
+}
+
+.card {
+    width: 250px;
+    color: black;
+}
+
+.news-btn {
+    width: 100%;
+}
+
+.card {
+    margin: 10px;
+}
+
+@media only screen and (max-width: 575px) {
+    .top-cards {
+        margin-left: 150px;
+        width: 100%;
+    }
+  }
