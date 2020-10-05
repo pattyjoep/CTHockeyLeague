@@ -4,7 +4,10 @@ import "./style.css"
 function Footer() {
     return (
         <div className="footer sticky-bottom">
-            CT Hockey League
+            
+            <p>
+                <i class="fa fa-copyright"></i> 2020 CT Hockey League
+            </p>
         </div>
     )
 }

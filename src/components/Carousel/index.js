@@ -1,11 +1,12 @@
 import React from 'react'
 import "./style.css"
 
-import { Carousel } from 'react-bootstrap'
+import { Card, Carousel } from 'react-bootstrap'
 
 function carousel(props) {
     return (
-        <Carousel>
+    <Card className="carousel-card">
+       <Carousel>
             <Carousel.Item>
                 <img
                     className="d-block w-100"
@@ -40,6 +41,7 @@ function carousel(props) {
                 </Carousel.Caption>
             </Carousel.Item>
         </Carousel>
+    </Card>
     )
 }
 export default carousel;

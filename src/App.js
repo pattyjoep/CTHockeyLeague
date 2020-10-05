@@ -19,19 +19,25 @@ function App() {
       <RinkLogos></RinkLogos>
       <Container>
         <Row>
-          <Col sm="4">
+        
+          <Col sm>
             <NewsCard></NewsCard> 
           </Col>
-          <Col sm="4">
+          <Col sm>
             <Carousel></Carousel>
           </Col>
-          <Col sm="4">
+          <Col sm>
             <AnnouncementCard></AnnouncementCard>
           </Col>
         </Row>
       </Container>
       {/* <img class="img-responsive img-rounded" src="http://cthockeyleague.com/CHL_2014/media/uploads/flyers/chlhockeynetworkFlyer.jpg" border="0" width="1141"></img> */}
-      <Footer></Footer>
+      <a href="http://cthockeyleague.com/CHL_2014/ads/redirect/254">
+                <img class="thumbnail" src="http://cthockeyleague.com/CHL_2014/media/uploads/ads/VAG Banner.jpg"></img>
+            </a>
+      <Footer>
+     
+      </Footer>
     </div>
 
 

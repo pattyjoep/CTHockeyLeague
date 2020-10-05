@@ -7,24 +7,24 @@ function RinkLogos() {
     return (
         <Container fluid className="rink-logos-container">
           <Row noGutters>
-            <Col xsm>
+            <Col xsm="true">
               <a href="http://cthockeyleague.com/CHL_2014/ads/redirect/187" target="_blank">
-                <img src="http://cthockeyleague.com/CHL_2014/media/uploads/ads/imgres-1.png" alt="Champions Skating Center" class="img-thumbnail"></img>
+                <img src="http://cthockeyleague.com/CHL_2014/media/uploads/ads/imgres-1.png" alt="Champions Skating Center" className="img-thumbnail"></img>
               </a>
             </Col>
-            <Col xsm>
+            <Col xsm="true">
               <a href="http://cthockeyleague.com/CHL_2014/ads/redirect/194" target="_blank">
-                <img src="http://cthockeyleague.com/CHL_2014/media/uploads/ads/imgres-3.jpg" alt="Northford Ice Pavillion" class="img-thumbnail"></img>
+                <img src="http://cthockeyleague.com/CHL_2014/media/uploads/ads/imgres-3.jpg" alt="Northford Ice Pavillion" className="img-thumbnail"></img>
               </a>
             </Col>
-            <Col xsm>
+            <Col xsm="true">
               <a href="http://cthockeyleague.com/CHL_2014/ads/redirect/191" target="_blank">
-                <img src="http://cthockeyleague.com/CHL_2014/media/uploads/ads/imgres-4.jpg" alt="Newington Ice Arena" class="img-thumbnail"></img>
+                <img src="http://cthockeyleague.com/CHL_2014/media/uploads/ads/imgres-4.jpg" alt="Newington Ice Arena" className="img-thumbnail"></img>
               </a>
             </Col>
-            <Col xsm>
+            <Col xsm="true">
               <a href="http://cthockeyleague.com/CHL_2014/ads/redirect/195" target="_blank">
-                <img src="http://cthockeyleague.com/CHL_2014/media/uploads/ads/wesleyan_ad.png" alt="Weslyan University" class="img-thumbnail"></img>
+                <img src="http://cthockeyleague.com/CHL_2014/media/uploads/ads/wesleyan_ad.png" alt="Weslyan University" className="img-thumbnail"></img>
               </a>
             </Col>
           </Row>
